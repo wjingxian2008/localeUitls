@@ -1,0 +1,14 @@
+
+# User-specific stuff
+.idea
+localeUtils.*
+localeUtils_*.*
+
+# IntelliJ
+out/
+
+### Gradle ###
+.gradle
+gradle/
+build/
+out/
