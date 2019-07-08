@@ -9,6 +9,5 @@ out/
 
 ### Gradle ###
 .gradle
-gradle/
 build/
 out/
